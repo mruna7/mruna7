@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## My Statistics
+<!-- ## My Statistics
 
 <br/>
 <p align="left">
@@ -23,4 +23,4 @@ Here are some ideas to get you started:
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=mruna7&theme=gruvbox&hide_border=true" />
   </a>
 </p>
-<br>
+<br> -->
