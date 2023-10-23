@@ -17,9 +17,9 @@
 
 
 ![Mrunal's github stats](https://github-readme-stats.vercel.app/api?username=mruna7&hide=["issues"]&show_icons=true)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mruna7.mruna7)
+p><img align="top" src="https://github-readme-stats.vercel.app/api?username=mruna7&show_icons=true" />
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mruna7" /></p>
 
 ---
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mruna7&show_icons=true&locale=en&layout=compact" alt="mruna7" /></p>
+
 ⭐️ From [@mruna7](https://github.com/mruna7)
